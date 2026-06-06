@@ -7,4 +7,4 @@ Performed structural analysis on complex truss configurations using both ANSYS a
 
 
 0123456
-012345
+01234
