@@ -11,9 +11,7 @@
   <img src="https://img.shields.io/badge/Load-300N%20Horizontal-006400?style=for-the-badge" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=B7C4D9&center=true&vCenter=true&width=650&lines=Solved+by+hand+with+the+Method+of+Joints;Cross-checked+in+ANSYS+Static+Structural;Manual+and+simulated+results+match+exactly" alt="Typing SVG" />
-</div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:0f9b8e&height=2">
 
@@ -118,8 +116,10 @@ This project presents the static analysis of a five-member, four-joint planar tr
 | `assets/` | Diagram source files (SVG) |
 
 
-
 <div align="center">
+
+</br>
+</br>
 
 <b>Author:</b> Frais Asghar
 <br>
