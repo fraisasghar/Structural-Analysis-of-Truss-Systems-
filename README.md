@@ -1,3 +1,6 @@
+
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:0f9b8e&height=200&section=header&text=Truss%20Analysis&fontSize=48&fontAlign=50&fontAlignY=55&animation=fadeIn&fontColor=ffffff&desc=Method%20of%20Joints%20|%20Static%20Equilibrium%20|%20ANSYS%20Verification&descAlign=50&descAlignY=88&descSize=18&descColor=dbe9ff&shadow=true" alt="Header" />
 </div>
