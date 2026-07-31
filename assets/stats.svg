@@ -1,0 +1,18 @@
+<svg viewBox='0 0 1178 160' xmlns='http://www.w3.org/2000/svg'>
+<rect x='0' y='0' width='1178' height='160' rx='14' fill='#0d1117'/>
+<rect x='24' y='20' width='210' height='130' rx='8' fill='#12141a' stroke='#4fc3f7' stroke-width='2.2'/>
+<text x='129.0' y='58' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='12' font-weight='600' fill='#9aa0a8' text-anchor='middle'>JOINTS</text>
+<text x='129.0' y='102' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='28' font-weight='800' fill='#4fc3f7' text-anchor='middle'>4</text>
+<rect x='254' y='20' width='210' height='130' rx='8' fill='#12141a' stroke='#2dd4bf' stroke-width='2.2'/>
+<text x='359.0' y='58' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='12' font-weight='600' fill='#9aa0a8' text-anchor='middle'>MEMBERS</text>
+<text x='359.0' y='102' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='28' font-weight='800' fill='#2dd4bf' text-anchor='middle'>5</text>
+<rect x='484' y='20' width='210' height='130' rx='8' fill='#12141a' stroke='#ffb84d' stroke-width='2.2'/>
+<text x='589.0' y='58' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='12' font-weight='600' fill='#9aa0a8' text-anchor='middle'>APPLIED LOAD</text>
+<text x='589.0' y='102' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='28' font-weight='800' fill='#ffb84d' text-anchor='middle'>300 N</text>
+<rect x='714' y='20' width='210' height='130' rx='8' fill='#12141a' stroke='#ff5a5a' stroke-width='2.2'/>
+<text x='819.0' y='58' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='12' font-weight='600' fill='#9aa0a8' text-anchor='middle'>PEAK FORCE</text>
+<text x='819.0' y='102' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='28' font-weight='800' fill='#ff5a5a' text-anchor='middle'>212.13 N</text>
+<rect x='944' y='20' width='210' height='130' rx='8' fill='#12141a' stroke='#5ee6a0' stroke-width='2.2'/>
+<text x='1049.0' y='58' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='12' font-weight='600' fill='#9aa0a8' text-anchor='middle'>MANUAL vs ANSYS</text>
+<text x='1049.0' y='102' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='28' font-weight='800' fill='#5ee6a0' text-anchor='middle'>100%</text>
+</svg>

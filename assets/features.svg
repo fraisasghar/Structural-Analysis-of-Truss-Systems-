@@ -1,0 +1,30 @@
+<svg viewBox='0 0 1180 340' xmlns='http://www.w3.org/2000/svg'>
+<rect x='0' y='0' width='1180' height='340' rx='14' fill='#0d1117'/>
+<text x='34' y='44' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='26' font-weight='700' fill='#f2f3f5'>Key Analysis Features</text>
+<rect x='24' y='66' width='1132' height='250' rx='10' fill='none' stroke='#33363c' stroke-width='1.5'/>
+<rect x='60' y='94' width='250' height='210' rx='8' fill='#12141a' stroke='#5ee6a0' stroke-width='2.2'/>
+<text x='185.0' y='134' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='14' font-weight='700' fill='#5ee6a0' text-anchor='middle'>LOAD DERIVATION</text>
+<line x1='90' y1='149' x2='280' y2='149' stroke='#33363c' stroke-width='1.5'/>
+<text x='185.0' y='184' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#9aa0a8' text-anchor='middle'>CMS-ID based load</text>
+<text x='185.0' y='212' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='700' fill='#f2f3f5' text-anchor='middle'>Load = 30 × 10</text>
+<text x='185.0' y='240' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#9aa0a8' text-anchor='middle'>= 300 N @ Joint D</text>
+<rect x='330' y='94' width='250' height='210' rx='8' fill='#12141a' stroke='#2dd4bf' stroke-width='2.2'/>
+<text x='455.0' y='134' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='14' font-weight='700' fill='#2dd4bf' text-anchor='middle'>SUPPORT CONDITIONS</text>
+<line x1='360' y1='149' x2='550' y2='149' stroke='#33363c' stroke-width='1.5'/>
+<text x='455.0' y='184' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#9aa0a8' text-anchor='middle'>Roller @ Joint A</text>
+<text x='455.0' y='212' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#f2f3f5' text-anchor='middle'>vertical reaction only</text>
+<text x='455.0' y='240' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#9aa0a8' text-anchor='middle'>Pin @ Joint C</text>
+<text x='455.0' y='268' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#9aa0a8' text-anchor='middle'>horizontal + vertical</text>
+<rect x='600' y='94' width='250' height='210' rx='8' fill='#12141a' stroke='#4fc3f7' stroke-width='2.2'/>
+<text x='725.0' y='134' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='14' font-weight='700' fill='#4fc3f7' text-anchor='middle'>METHOD OF JOINTS</text>
+<line x1='630' y1='149' x2='820' y2='149' stroke='#33363c' stroke-width='1.5'/>
+<text x='725.0' y='184' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#9aa0a8' text-anchor='middle'>ΣFx = 0, ΣFy = 0</text>
+<text x='725.0' y='212' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#f2f3f5' text-anchor='middle'>solved joint by joint</text>
+<text x='725.0' y='240' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#9aa0a8' text-anchor='middle'>A → B → C</text>
+<rect x='870' y='94' width='250' height='210' rx='8' fill='#12141a' stroke='#ffb84d' stroke-width='2.2'/>
+<text x='995.0' y='134' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='14' font-weight='700' fill='#ffb84d' text-anchor='middle'>ANSYS VALIDATION</text>
+<line x1='900' y1='149' x2='1090' y2='149' stroke='#33363c' stroke-width='1.5'/>
+<text x='995.0' y='184' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#9aa0a8' text-anchor='middle'>Static Structural sim</text>
+<text x='995.0' y='212' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#f2f3f5' text-anchor='middle'>Axial force check</text>
+<text x='995.0' y='240' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#9aa0a8' text-anchor='middle'>Manual vs simulated</text>
+</svg>

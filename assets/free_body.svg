@@ -1,0 +1,38 @@
+<svg viewBox='0 0 1180 380' xmlns='http://www.w3.org/2000/svg'>
+<rect x='0' y='0' width='1180' height='380' rx='14' fill='#0d1117'/>
+<text x='34' y='44' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='26' font-weight='700' fill='#f2f3f5'>Joint-by-Joint Free-Body Diagrams</text>
+<rect x='24' y='66' width='1132' height='290' rx='10' fill='none' stroke='#33363c' stroke-width='1.5'/>
+<defs>
+    <marker id='arrow' markerWidth='10' markerHeight='10' refX='8' refY='3' orient='auto' markerUnits='strokeWidth'>
+      <path d='M0,0 L0,6 L9,3 z' fill='#8a8f96'/>
+    </marker>
+    </defs>
+<circle cx='212.66666666666666' cy='191' r='9' fill='#4fc3f7'/>
+<text x='212.66666666666666' y='96' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='15' font-weight='700' fill='#4fc3f7' text-anchor='middle'>JOINT A</text>
+<line x1='212.66666666666666' y1='191' x2='212.66666666666666' y2='121' stroke='#5ee6a0' stroke-width='3' marker-end='url(#arrow)'/>
+<text x='226.66666666666666' y='115' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='700' fill='#5ee6a0' text-anchor='start'>F_AD</text>
+<line x1='212.66666666666666' y1='191' x2='287.66666666666663' y2='191' stroke='#e0e0e0' stroke-width='3' marker-end='url(#arrow)'/>
+<text x='301.66666666666663' y='205' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='700' fill='#e0e0e0' text-anchor='start'>F_AB</text>
+<line x1='212.66666666666666' y1='191' x2='212.66666666666666' y2='261' stroke='#4fc3f7' stroke-width='3' marker-end='url(#arrow)'/>
+<text x='226.66666666666666' y='275' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='700' fill='#4fc3f7' text-anchor='start'>R_Ay</text>
+<circle cx='590.0' cy='191' r='9' fill='#2dd4bf'/>
+<text x='590.0' y='96' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='15' font-weight='700' fill='#2dd4bf' text-anchor='middle'>JOINT B</text>
+<line x1='590.0' y1='191' x2='515.0' y2='191' stroke='#ff5a5a' stroke-width='3' marker-end='url(#arrow)'/>
+<text x='501.0' y='205' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='700' fill='#ff5a5a' text-anchor='end'>F_AB</text>
+<line x1='590.0' y1='191' x2='665.0' y2='191' stroke='#5ee6a0' stroke-width='3' marker-end='url(#arrow)'/>
+<text x='679.0' y='205' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='700' fill='#5ee6a0' text-anchor='start'>F_BC</text>
+<line x1='590.0' y1='191' x2='590.0' y2='121' stroke='#9aa0a8' stroke-width='3' marker-end='url(#arrow)'/>
+<text x='604.0' y='115' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='700' fill='#9aa0a8' text-anchor='start'>F_BD</text>
+<line x1='401.3333333333333' y1='106' x2='401.3333333333333' y2='326' stroke='#33363c' stroke-width='1'/>
+<circle cx='967.3333333333333' cy='191' r='9' fill='#ffb84d'/>
+<text x='967.3333333333333' y='96' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='15' font-weight='700' fill='#ffb84d' text-anchor='middle'>JOINT C</text>
+<line x1='967.3333333333333' y1='191' x2='892.3333333333333' y2='191' stroke='#5ee6a0' stroke-width='3' marker-end='url(#arrow)'/>
+<text x='878.3333333333333' y='205' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='700' fill='#5ee6a0' text-anchor='end'>F_BC</text>
+<line x1='967.3333333333333' y1='191' x2='1022.3333333333333' y2='136' stroke='#ff5a5a' stroke-width='3' marker-end='url(#arrow)'/>
+<text x='1036.3333333333333' y='130' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='700' fill='#ff5a5a' text-anchor='start'>F_CD</text>
+<line x1='967.3333333333333' y1='191' x2='967.3333333333333' y2='261' stroke='#ffb84d' stroke-width='3' marker-end='url(#arrow)'/>
+<text x='981.3333333333333' y='275' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='700' fill='#ffb84d' text-anchor='start'>R_Cy</text>
+<line x1='967.3333333333333' y1='191' x2='1042.3333333333333' y2='191' stroke='#ffb84d' stroke-width='3' marker-end='url(#arrow)'/>
+<text x='1056.3333333333333' y='205' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='700' fill='#ffb84d' text-anchor='start'>R_Cx</text>
+<line x1='778.6666666666666' y1='106' x2='778.6666666666666' y2='326' stroke='#33363c' stroke-width='1'/>
+</svg>

@@ -1,0 +1,21 @@
+<svg viewBox='0 0 718 230' xmlns='http://www.w3.org/2000/svg'>
+<rect x='0' y='0' width='718' height='230' rx='14' fill='#0d1117'/>
+<text x='24' y='44' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='26' font-weight='700' fill='#f2f3f5'>Support Reactions</text>
+<defs>
+    <marker id='arrow' markerWidth='10' markerHeight='10' refX='8' refY='3' orient='auto' markerUnits='strokeWidth'>
+      <path d='M0,0 L0,6 L9,3 z' fill='#8a8f96'/>
+    </marker>
+    </defs>
+<rect x='24' y='78' width='210' height='140' rx='8' fill='#12141a' stroke='#4fc3f7' stroke-width='2.2'/>
+<text x='129.0' y='112' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#9aa0a8' text-anchor='middle'>R_Ay</text>
+<text x='129.0' y='158' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='30' font-weight='800' fill='#4fc3f7' text-anchor='middle'>150</text>
+<text x='129.0' y='190' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#f2f3f5' text-anchor='middle'>N · Downward</text>
+<rect x='254' y='78' width='210' height='140' rx='8' fill='#12141a' stroke='#ff8a3d' stroke-width='2.2'/>
+<text x='359.0' y='112' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#9aa0a8' text-anchor='middle'>R_Cx</text>
+<text x='359.0' y='158' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='30' font-weight='800' fill='#ff8a3d' text-anchor='middle'>300</text>
+<text x='359.0' y='190' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#f2f3f5' text-anchor='middle'>N · Leftward</text>
+<rect x='484' y='78' width='210' height='140' rx='8' fill='#12141a' stroke='#5ee6a0' stroke-width='2.2'/>
+<text x='589.0' y='112' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#9aa0a8' text-anchor='middle'>R_Cy</text>
+<text x='589.0' y='158' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='30' font-weight='800' fill='#5ee6a0' text-anchor='middle'>150</text>
+<text x='589.0' y='190' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#f2f3f5' text-anchor='middle'>N · Upward</text>
+</svg>
