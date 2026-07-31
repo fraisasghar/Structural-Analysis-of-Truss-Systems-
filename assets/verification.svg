@@ -1,0 +1,21 @@
+<svg viewBox='0 0 900 320' xmlns='http://www.w3.org/2000/svg'>
+<rect x='0' y='0' width='900' height='320' rx='14' fill='#1c1e22'/>
+<text x='34' y='44' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='26' font-weight='700' fill='#f2f3f5'>Validation Pipeline</text>
+<rect x='24' y='66' width='852' height='230' rx='10' fill='none' stroke='#33363c' stroke-width='1.5'/>
+<defs>
+    <marker id='arrow' markerWidth='10' markerHeight='10' refX='8' refY='3' orient='auto' markerUnits='strokeWidth'>
+      <path d='M0,0 L0,6 L9,3 z' fill='#8a8f96'/>
+    </marker>
+    </defs>
+<rect x='60' y='100' width='320' height='80' rx='8' fill='#12141a' stroke='#4fc3f7' stroke-width='2.2'/>
+<text x='220.0' y='132' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='700' fill='#4fc3f7' text-anchor='middle'>MANUAL METHOD OF JOINTS</text>
+<text x='220.0' y='156' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='12' font-weight='400' fill='#9aa0a8' text-anchor='middle'>Hand-solved equilibrium</text>
+<rect x='60' y='220' width='320' height='80' rx='8' fill='#12141a' stroke='#ffb84d' stroke-width='2.2'/>
+<text x='220.0' y='252' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='700' fill='#ffb84d' text-anchor='middle'>ANSYS STATIC STRUCTURAL</text>
+<text x='220.0' y='276' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='12' font-weight='400' fill='#9aa0a8' text-anchor='middle'>Simulated axial force</text>
+<rect x='620' y='160' width='220' height='90' rx='8' fill='#123321' stroke='#5ee6a0' stroke-width='2.2'/>
+<text x='730.0' y='198' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='15' font-weight='700' fill='#5ee6a0' text-anchor='middle'>✓ VALUES MATCH</text>
+<text x='730.0' y='222' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#f2f3f5' text-anchor='middle'>Analysis Confirmed</text>
+<path d='M 380,140.0 C 500,140.0 500,205.0 620,205.0' fill='none' stroke='#8a8f96' stroke-width='2' marker-end='url(#arrow)'/>
+<path d='M 380,260.0 C 500,260.0 500,205.0 620,205.0' fill='none' stroke='#8a8f96' stroke-width='2' marker-end='url(#arrow)'/>
+</svg>

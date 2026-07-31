@@ -1,0 +1,29 @@
+<svg viewBox='0 0 1180 260' xmlns='http://www.w3.org/2000/svg'>
+<rect x='0' y='0' width='1180' height='260' rx='14' fill='#1c1e22'/>
+<text x='34' y='44' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='26' font-weight='700' fill='#f2f3f5'>Analysis Pipeline</text>
+<rect x='24' y='66' width='1132' height='160' rx='10' fill='none' stroke='#33363c' stroke-width='1.5'/>
+<defs>
+    <marker id='arrow' markerWidth='10' markerHeight='10' refX='8' refY='3' orient='auto' markerUnits='strokeWidth'>
+      <path d='M0,0 L0,6 L9,3 z' fill='#8a8f96'/>
+    </marker>
+    </defs>
+<rect x='50' y='106' width='195' height='90' rx='8' fill='#12141a' stroke='#4fc3f7' stroke-width='2.2'/>
+<text x='147.5' y='140' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='14' font-weight='700' fill='#4fc3f7' text-anchor='middle'>TRUSS SETUP</text>
+<text x='147.5' y='164' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='12' font-weight='400' fill='#9aa0a8' text-anchor='middle'>4 joints · 5 members</text>
+<line x1='249' y1='151.0' x2='267' y2='151.0' stroke='#8a8f96' stroke-width='2' marker-end='url(#arrow)'/>
+<rect x='271' y='106' width='195' height='90' rx='8' fill='#12141a' stroke='#2dd4bf' stroke-width='2.2'/>
+<text x='368.5' y='140' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='14' font-weight='700' fill='#2dd4bf' text-anchor='middle'>EQUILIBRIUM</text>
+<text x='368.5' y='164' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='12' font-weight='400' fill='#9aa0a8' text-anchor='middle'>Whole-truss reactions</text>
+<line x1='470' y1='151.0' x2='488' y2='151.0' stroke='#8a8f96' stroke-width='2' marker-end='url(#arrow)'/>
+<rect x='492' y='106' width='195' height='90' rx='8' fill='#12141a' stroke='#ffb84d' stroke-width='2.2'/>
+<text x='589.5' y='140' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='14' font-weight='700' fill='#ffb84d' text-anchor='middle'>METHOD OF JOINTS</text>
+<text x='589.5' y='164' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='12' font-weight='400' fill='#9aa0a8' text-anchor='middle'>Solve A → B → C</text>
+<line x1='691' y1='151.0' x2='709' y2='151.0' stroke='#8a8f96' stroke-width='2' marker-end='url(#arrow)'/>
+<rect x='713' y='106' width='195' height='90' rx='8' fill='#12141a' stroke='#5ee6a0' stroke-width='2.2'/>
+<text x='810.5' y='140' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='14' font-weight='700' fill='#5ee6a0' text-anchor='middle'>TABULATE RESULTS</text>
+<text x='810.5' y='164' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='12' font-weight='400' fill='#9aa0a8' text-anchor='middle'>Reactions &amp; member forces</text>
+<line x1='912' y1='151.0' x2='930' y2='151.0' stroke='#8a8f96' stroke-width='2' marker-end='url(#arrow)'/>
+<rect x='934' y='106' width='195' height='90' rx='8' fill='#2a1c10' stroke='#ff8a3d' stroke-width='2.2'/>
+<text x='1031.5' y='140' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='14' font-weight='700' fill='#ff8a3d' text-anchor='middle'>ANSYS VERIFICATION</text>
+<text x='1031.5' y='164' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='12' font-weight='400' fill='#9aa0a8' text-anchor='middle'>Simulated vs. Manual</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg viewBox='0 0 1103 230' xmlns='http://www.w3.org/2000/svg'>
+<rect x='0' y='0' width='1103' height='230' rx='14' fill='#1c1e22'/>
+<text x='24' y='44' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='26' font-weight='700' fill='#f2f3f5'>Internal Member Forces</text>
+<defs>
+    <marker id='arrow' markerWidth='10' markerHeight='10' refX='8' refY='3' orient='auto' markerUnits='strokeWidth'>
+      <path d='M0,0 L0,6 L9,3 z' fill='#8a8f96'/>
+    </marker>
+    </defs>
+<rect x='24' y='78' width='195' height='140' rx='8' fill='#12141a' stroke='#ff5a5a' stroke-width='2.2'/>
+<text x='121.5' y='112' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#9aa0a8' text-anchor='middle'>AB</text>
+<text x='121.5' y='158' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='30' font-weight='800' fill='#ff5a5a' text-anchor='middle'>150</text>
+<text x='121.5' y='190' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#f2f3f5' text-anchor='middle'>N · Compression</text>
+<rect x='239' y='78' width='195' height='140' rx='8' fill='#12141a' stroke='#5ee6a0' stroke-width='2.2'/>
+<text x='336.5' y='112' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#9aa0a8' text-anchor='middle'>AD</text>
+<text x='336.5' y='158' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='30' font-weight='800' fill='#5ee6a0' text-anchor='middle'>212.13</text>
+<text x='336.5' y='190' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#f2f3f5' text-anchor='middle'>N · Tension</text>
+<rect x='454' y='78' width='195' height='140' rx='8' fill='#12141a' stroke='#5ee6a0' stroke-width='2.2'/>
+<text x='551.5' y='112' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#9aa0a8' text-anchor='middle'>BC</text>
+<text x='551.5' y='158' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='30' font-weight='800' fill='#5ee6a0' text-anchor='middle'>150</text>
+<text x='551.5' y='190' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#f2f3f5' text-anchor='middle'>N · Tension</text>
+<rect x='669' y='78' width='195' height='140' rx='8' fill='#12141a' stroke='#9aa0a8' stroke-width='2.2'/>
+<text x='766.5' y='112' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#9aa0a8' text-anchor='middle'>BD</text>
+<text x='766.5' y='158' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='30' font-weight='800' fill='#9aa0a8' text-anchor='middle'>0</text>
+<text x='766.5' y='190' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#f2f3f5' text-anchor='middle'>N · Zero-Force</text>
+<rect x='884' y='78' width='195' height='140' rx='8' fill='#12141a' stroke='#ff5a5a' stroke-width='2.2'/>
+<text x='981.5' y='112' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#9aa0a8' text-anchor='middle'>CD</text>
+<text x='981.5' y='158' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='30' font-weight='800' fill='#ff5a5a' text-anchor='middle'>212.13</text>
+<text x='981.5' y='190' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#f2f3f5' text-anchor='middle'>N · Compression</text>
+</svg>

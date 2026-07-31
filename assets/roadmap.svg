@@ -1,0 +1,54 @@
+<svg viewBox='0 0 1180 470' xmlns='http://www.w3.org/2000/svg'>
+<rect x='0' y='0' width='1180' height='470' rx='14' fill='#1c1e22'/>
+<text x='34' y='44' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='26' font-weight='700' fill='#f2f3f5'>Project Roadmap</text>
+<rect x='24' y='66' width='1132' height='110' rx='10' fill='none' stroke='#33363c' stroke-width='1.5'/>
+<defs>
+    <marker id='arrow' markerWidth='10' markerHeight='10' refX='8' refY='3' orient='auto' markerUnits='strokeWidth'>
+      <path d='M0,0 L0,6 L9,3 z' fill='#8a8f96'/>
+    </marker>
+    </defs>
+<rect x='54' y='96' width='200' height='74' rx='8' fill='#12141a' stroke='#4fc3f7' stroke-width='2.2'/>
+<text x='154.0' y='126' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='700' fill='#4fc3f7' text-anchor='middle'>PHASE 1</text>
+<text x='154.0' y='148' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#f2f3f5' text-anchor='middle'>Truss Geometry</text>
+<line x1='257' y1='133.0' x2='269' y2='133.0' stroke='#8a8f96' stroke-width='2' marker-end='url(#arrow)'/>
+<rect x='272' y='96' width='200' height='74' rx='8' fill='#12141a' stroke='#2dd4bf' stroke-width='2.2'/>
+<text x='372.0' y='126' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='700' fill='#2dd4bf' text-anchor='middle'>PHASE 2</text>
+<text x='372.0' y='148' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#f2f3f5' text-anchor='middle'>Equilibrium Equations</text>
+<line x1='475' y1='133.0' x2='487' y2='133.0' stroke='#8a8f96' stroke-width='2' marker-end='url(#arrow)'/>
+<rect x='490' y='96' width='200' height='74' rx='8' fill='#12141a' stroke='#ffb84d' stroke-width='2.2'/>
+<text x='590.0' y='126' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='700' fill='#ffb84d' text-anchor='middle'>PHASE 3</text>
+<text x='590.0' y='148' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#f2f3f5' text-anchor='middle'>Method of Joints</text>
+<line x1='693' y1='133.0' x2='705' y2='133.0' stroke='#8a8f96' stroke-width='2' marker-end='url(#arrow)'/>
+<rect x='708' y='96' width='200' height='74' rx='8' fill='#12141a' stroke='#5ee6a0' stroke-width='2.2'/>
+<text x='808.0' y='126' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='700' fill='#5ee6a0' text-anchor='middle'>PHASE 4</text>
+<text x='808.0' y='148' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#f2f3f5' text-anchor='middle'>Tabulate Results</text>
+<line x1='911' y1='133.0' x2='923' y2='133.0' stroke='#8a8f96' stroke-width='2' marker-end='url(#arrow)'/>
+<rect x='926' y='96' width='200' height='74' rx='8' fill='#12141a' stroke='#ff8a3d' stroke-width='2.2'/>
+<text x='1026.0' y='126' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='700' fill='#ff8a3d' text-anchor='middle'>PHASE 5</text>
+<text x='1026.0' y='148' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='13' font-weight='400' fill='#f2f3f5' text-anchor='middle'>ANSYS Verification</text>
+<rect x='60' y='210' width='20' height='20' rx='4' fill='#123321' stroke='#5ee6a0' stroke-width='2'/>
+<path d='M 64,221 l 5,5 l 10,-11' fill='none' stroke='#5ee6a0' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/>
+<text x='96' y='225' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='15' font-weight='400' fill='#f2f3f5' text-anchor='start'>Truss with 5 members, 3+ joints defined</text>
+<rect x='60' y='242' width='20' height='20' rx='4' fill='#123321' stroke='#5ee6a0' stroke-width='2'/>
+<path d='M 64,253 l 5,5 l 10,-11' fill='none' stroke='#5ee6a0' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/>
+<text x='96' y='257' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='15' font-weight='400' fill='#f2f3f5' text-anchor='start'>Support reactions solved (ΣFx, ΣFy, ΣM)</text>
+<rect x='60' y='274' width='20' height='20' rx='4' fill='#123321' stroke='#5ee6a0' stroke-width='2'/>
+<path d='M 64,285 l 5,5 l 10,-11' fill='none' stroke='#5ee6a0' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/>
+<text x='96' y='289' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='15' font-weight='400' fill='#f2f3f5' text-anchor='start'>All 5 members solved via Method of Joints</text>
+<rect x='60' y='306' width='20' height='20' rx='4' fill='#123321' stroke='#5ee6a0' stroke-width='2'/>
+<path d='M 64,317 l 5,5 l 10,-11' fill='none' stroke='#5ee6a0' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/>
+<text x='96' y='321' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='15' font-weight='400' fill='#f2f3f5' text-anchor='start'>Reaction &amp; member-force table compiled</text>
+<rect x='60' y='338' width='20' height='20' rx='4' fill='#123321' stroke='#5ee6a0' stroke-width='2'/>
+<path d='M 64,349 l 5,5 l 10,-11' fill='none' stroke='#5ee6a0' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/>
+<text x='96' y='353' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='15' font-weight='400' fill='#f2f3f5' text-anchor='start'>Tension / compression / zero-force identified</text>
+<rect x='60' y='370' width='20' height='20' rx='4' fill='#123321' stroke='#5ee6a0' stroke-width='2'/>
+<path d='M 64,381 l 5,5 l 10,-11' fill='none' stroke='#5ee6a0' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/>
+<text x='96' y='385' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='15' font-weight='400' fill='#f2f3f5' text-anchor='start'>ANSYS Static Structural simulation run</text>
+<rect x='60' y='402' width='20' height='20' rx='4' fill='#123321' stroke='#5ee6a0' stroke-width='2'/>
+<path d='M 64,413 l 5,5 l 10,-11' fill='none' stroke='#5ee6a0' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/>
+<text x='96' y='417' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='15' font-weight='400' fill='#f2f3f5' text-anchor='start'>Manual vs. ANSYS results cross-verified</text>
+<rect x='60' y='434' width='20' height='20' rx='4' fill='#1c1e22' stroke='#4a4e56' stroke-width='2'/>
+<text x='96' y='449' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='15' font-weight='400' fill='#9aa0a8' text-anchor='start'>Model Predictive Control style re-check</text>
+<rect x='60' y='466' width='20' height='20' rx='4' fill='#1c1e22' stroke='#4a4e56' stroke-width='2'/>
+<text x='96' y='481' font-family='Segoe UI, Arial, Helvetica, sans-serif' font-size='15' font-weight='400' fill='#9aa0a8' text-anchor='start'>Multi-load-case sensitivity study</text>
+</svg>
