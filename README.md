@@ -42,21 +42,16 @@ This project presents the static analysis of a five-member, four-joint planar tr
 
 <br>
 
-## Project Snapshot
 
-![Stats](assets/stats.svg)
-
+<div align="center">
+<img width="700" alt="Screenshot 2026-08-10 183852" src="https://github.com/user-attachments/assets/7d465ddd-81c6-4072-b77f-0f4f812e0990" />
+</div>
 <br>
+
 
 ![Architecture](assets/architecture.svg)
 
-<br>
 
-## <img src="https://api.iconify.design/mdi/star-four-points-outline.svg?color=%235ee6a0" width="22" height="22" valign="middle"/> Key Features
-
-![Key Features](assets/features.svg)
-
-<br>
 
 ## <img src="https://api.iconify.design/mdi/ruler-square-compass.svg?color=%234fc3f7" width="22" height="22" valign="middle"/> Geometry & Loading
 
@@ -76,11 +71,7 @@ This project presents the static analysis of a five-member, four-joint planar tr
 
 <br>
 
-## <img src="https://api.iconify.design/mdi/arrow-down-bold-box-outline.svg?color=%232dd4bf" width="22" height="22" valign="middle"/> Support Reactions
 
-![Reactions](assets/reactions.svg)
-
-<br>
 
 ## <img src="https://api.iconify.design/mdi/vector-line.svg?color=%23ff8a3d" width="22" height="22" valign="middle"/> Internal Member Forces
 
@@ -122,12 +113,19 @@ This project presents the static analysis of a five-member, four-joint planar tr
 <div align="center">
 
 </br>
+
+<div align="left">
+Autor: Frais Asghar
+  <br>
+National University of Sciences &amp; Technology (NUST) SMME
+</div>
+
 </br>
 
-<b>Author:</b> Frais Asghar
-<br>
-National University of Sciences &amp; Technology (NUST) &mdash; SMME
-
+<div align="center">
+If this project was useful to you, consider giving it a star. ⭐
+  
+<p2 align="center"><sub>Built for the Mechanical & Simulation community &nbsp;&middot;&nbsp; Happy building</sub></p2>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:0f9b8e&height=2">
